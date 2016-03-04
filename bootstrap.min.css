@@ -91,3 +91,5 @@ img{
 .btn-primary:hover {
   background: #ac005f;
 }
+
+.pointer { cursor: pointer; cursor: hand; }
